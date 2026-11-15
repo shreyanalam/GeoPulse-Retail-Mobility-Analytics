@@ -1,0 +1,4 @@
+Nearest_Store,Total_Observations,Unique_Devices,Average_Distance_km,Minimum_Distance_km,Maximum_Distance_km
+Store A,382,99,4.149,0.093,9.253
+Store B,473,99,4.319,0.225,9.772
+Store C,145,76,2.926,0.347,7.12
