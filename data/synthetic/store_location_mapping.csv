@@ -1,0 +1,41 @@
+store_id,store_zone,latitude,longitude,data_type
+1,Koramangala,12.93382,77.629458,synthetic
+2,Koramangala,12.937752,77.625585,synthetic
+3,Koramangala,12.931416,77.620716,synthetic
+4,Koramangala,12.930339,77.628528,synthetic
+5,Koramangala,12.936312,77.626789,synthetic
+6,Koramangala,12.929926,77.629669,synthetic
+7,Koramangala,12.938857,77.621336,synthetic
+8,Koramangala,12.9317,77.621017,synthetic
+9,Indiranagar,12.976247,77.641072,synthetic
+10,Indiranagar,12.977651,77.638504,synthetic
+11,Indiranagar,12.97963,77.636834,synthetic
+12,Indiranagar,12.976114,77.63933,synthetic
+13,Indiranagar,12.977917,77.643937,synthetic
+14,Indiranagar,12.975096,77.640957,synthetic
+15,Indiranagar,12.979417,77.635811,synthetic
+16,Indiranagar,12.979583,77.637176,synthetic
+17,Whitefield,12.965016,77.754938,synthetic
+18,Whitefield,12.974922,77.753392,synthetic
+19,Whitefield,12.967651,77.745574,synthetic
+20,Whitefield,12.971827,77.749342,synthetic
+21,Whitefield,12.965642,77.749947,synthetic
+22,Whitefield,12.964678,77.754503,synthetic
+23,Whitefield,12.967147,77.751788,synthetic
+24,Whitefield,12.967729,77.750221,synthetic
+25,HSR Layout,12.912114,77.641133,synthetic
+26,HSR Layout,12.916765,77.647626,synthetic
+27,HSR Layout,12.916434,77.648943,synthetic
+28,HSR Layout,12.912677,77.649241,synthetic
+29,HSR Layout,12.907073,77.641256,synthetic
+30,HSR Layout,12.906598,77.642679,synthetic
+31,HSR Layout,12.910375,77.642085,synthetic
+32,HSR Layout,12.915216,77.643024,synthetic
+33,Jayanagar,12.92839,77.58427,synthetic
+34,Jayanagar,12.92685,77.587124,synthetic
+35,Jayanagar,12.92612,77.589156,synthetic
+36,Jayanagar,12.933795,77.580486,synthetic
+37,Jayanagar,12.925361,77.58727,synthetic
+38,Jayanagar,12.933075,77.586319,synthetic
+39,Jayanagar,12.933784,77.579114,synthetic
+40,Jayanagar,12.929243,77.579575,synthetic
